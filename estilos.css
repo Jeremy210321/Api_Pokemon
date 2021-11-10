@@ -1,0 +1,14 @@
+
+.alto {
+    @media (min-width:992px) {
+        height: 100vh;
+    }
+
+}
+.border {
+    border: 3px lightgreen solid;
+}
+.bg-secondary {
+    --bs-bg-opacity: 1;
+    background-color: #198754!important;
+}
